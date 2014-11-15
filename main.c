@@ -45,7 +45,7 @@ int main(void)
 	int c;
 	int i;
 
-	fprintf(stderr, "Data speed : %d bauds\n", FREQ_TRUE);
+	fprintf(stderr, "Data speed : %d bauds\n", FREQ_FALSE);
 
 	/* Header */
 	for (i = 0; i < 100; i++) {
